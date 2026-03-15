@@ -23,7 +23,7 @@ I worked with a multi-table dataset (Customers, Products, and Orders) to uncover
 ### 📂 Repository Structure
 - `SALES.xlsx`: The powerhouse spreadsheet with all the analysis.
 - `screenshots/`: Visual snapshots of the sales dashboard. 🖼️
-- **Video Walkthrough:** [Link to GDrive Video] 🎥
+- **Video Walkthrough:** [https://drive.google.com/file/d/1N38UYPIUQSJJz324V7Yy0d2ir9cC-t4J/view?usp=drive_link] 🎥
 
 ### 🚀 Getting Started
 1. Clone the repo.
